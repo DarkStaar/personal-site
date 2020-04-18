@@ -1,0 +1,156 @@
+a {
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  margin-left: 0;
+  margin-top: 0;
+  margin-right: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.computer_pic {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+}
+
+.footer-link{
+  font-size: 20px;
+  margin: auto 5px auto 5px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+.hckr_logo {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.heading1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+
+.heading2 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+  color: #66BFBF;
+}
+
+.heading3 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 35px;
+  color: #11999E;
+}
+
+.first-page-paragraph {
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+}
+
+.text_highlight {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill_paragraph1 {
+  line-height: 2;
+}
+
+.skill_paragraph2 {
+  line-height: 2;
+}
+
+.introduction-paragraph {
+  color: #40514E;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width: thick;
+  color: #EAF6F6;
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow: 0 1px 0 #2f6627;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
